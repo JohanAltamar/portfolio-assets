@@ -4,11 +4,7 @@
 <hr/>
 
 <figure>
-
-<img src="https://cdn.jsdelivr.net/gh/JohanAltamar/portfolio-assets@main/1.custom-free-email/cover.png" width="100%" alt="portada del blog"/>
-
-  
-
+	<img src="https://cdn.jsdelivr.net/gh/JohanAltamar/portfolio-assets@main/1.custom-free-email/cover.png" width="100%" alt="portada del blog"/>
 </figure>
 
   
@@ -168,5 +164,5 @@ Gmail -> Configuraciones -> Todos los ajustes -> Cuentas e importación -> Añad
 
 De esta forma puedes enviar y recibir correos usando tu dominio de forma gratuita, cabe resaltar que tiene ciertas restricciones por cuestiones de seguridad como limitar el tamaño de los archivos adjuntos, así como también las extensiones de estos. La plataforma asegura dentro de sus políticas de privacidad que los correos no son almacenados a menos que ocurra un error durante la entrega y una vez este haya llegado a su destino se borraría. Si tienes alguna duda, puedes contactarme en blog@johanaltamar.com. Saludos y gracias por tomarte el tiempo de leer y poner en práctica. Espero haya sido de mucha ayuda.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MDgyMzI1XX0=
+eyJoaXN0b3J5IjpbMzUwMDg3MDE1XX0=
 -->
